@@ -71,7 +71,7 @@
     "only_visible_to_overrides": false,
     "assignment_group_id": 6376,
     "show_correct_answers_last_attempt": true,
-    "version_number": 5,
+    "version_number": 6,
     "has_access_code": false,
     "post_to_sis": false,
     "migration_id": "gc850a1dce3b251bae94f8d71a0903eb8",
@@ -100,7 +100,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/assignments/74056\">Defining Object Inheritance</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 7489,
+          "id": 1953,
           "text": "",
           "html": "<p>True</p>",
           "comments": "",
@@ -108,7 +108,7 @@
           "weight": 100.0
         },
         {
-          "id": 3151,
+          "id": 2090,
           "text": "",
           "html": "<p>False</p>",
           "comments": "",
@@ -116,7 +116,7 @@
           "weight": 0.0
         },
         {
-          "id": 3868,
+          "id": 3279,
           "text": "",
           "html": "<p>I don't know.</p>",
           "comments": "",
@@ -149,7 +149,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/assignments/74056\">Defining Object Inheritance</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 5947,
+          "id": 3276,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Laptop</span> <span class=\"o\">&lt;</span> <span class=\"no\">Computer</span>\n\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -157,7 +157,7 @@
           "weight": 100.0
         },
         {
-          "id": 5555,
+          "id": 9956,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Computer</span> <span class=\"o\">&gt;</span> <span class=\"no\">Laptop</span>\n\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -165,7 +165,7 @@
           "weight": 0.0
         },
         {
-          "id": 1741,
+          "id": 1913,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Laptop</span>\n\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -173,7 +173,7 @@
           "weight": 0.0
         },
         {
-          "id": 3407,
+          "id": 8382,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Computer</span> <span class=\"o\">&lt;</span> <span class=\"no\">Laptop</span>\n\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -181,7 +181,7 @@
           "weight": 0.0
         },
         {
-          "id": 9769,
+          "id": 9035,
           "text": "",
           "html": "<p>I don't know.</p>",
           "comments": "",
@@ -214,7 +214,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/assignments/74056\">Defining Object Inheritance</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 3485,
+          "id": 3501,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Laptop</span> <span class=\"o\">&lt;</span> <span class=\"no\">Computer</span>\n  <span class=\"k\">def</span> <span class=\"nf\">calculate</span>\n    <span class=\"s2\">\"Processing mathematics!\"</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -222,7 +222,7 @@
           "weight": 100.0
         },
         {
-          "id": 4939,
+          "id": 8884,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Computer::Laptop</span>\n  <span class=\"k\">def</span> <span class=\"nf\">calculate</span>\n    <span class=\"s2\">\"Processing mathematics!\"</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -230,7 +230,7 @@
           "weight": 0.0
         },
         {
-          "id": 3381,
+          "id": 3358,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Laptop</span>\n  <span class=\"k\">def</span> <span class=\"nf\">calculate</span>\n    <span class=\"s2\">\"Processing mathematics!\"</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -238,7 +238,7 @@
           "weight": 0.0
         },
         {
-          "id": 3017,
+          "id": 8541,
           "text": "",
           "html": "<p>I don't know.</p>",
           "comments": "",
@@ -271,7 +271,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/assignments/74058\">Modules</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 4873,
+          "id": 1646,
           "text": "",
           "html": "<p>Using methods from a module as instance methods</p>",
           "comments": "",
@@ -279,7 +279,7 @@
           "weight": 100.0
         },
         {
-          "id": 6012,
+          "id": 3881,
           "text": "",
           "html": "<p>Subclass inheritance</p>",
           "comments": "",
@@ -287,7 +287,7 @@
           "weight": 0.0
         },
         {
-          "id": 711,
+          "id": 5140,
           "text": "",
           "html": "<p>Using methods from a module as class methods</p>",
           "comments": "",
@@ -295,7 +295,7 @@
           "weight": 0.0
         },
         {
-          "id": 2924,
+          "id": 872,
           "text": "",
           "html": "<p>I don't know.</p>",
           "comments": "",
@@ -328,7 +328,15 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/assignments/74058\">Modules</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 4528,
+          "id": 7078,
+          "text": "namespaced",
+          "comments": "",
+          "comments_html": "<p>Correct! Both <code>Teachers</code> and <code>Phrases</code> are namespaced inside of <code>Talk</code>. They\ncan be accessed using <code>::</code>.</p>",
+          "weight": 100.0,
+          "blank_id": "a1"
+        },
+        {
+          "id": 5809,
           "text": "nested",
           "comments": "",
           "comments_html": "<p>Correct! Both <code>Teachers</code> and <code>Phrases</code> are nested inside of <code>Talk</code>. They can\nbe accessed using <code>::</code>.</p>",
@@ -336,7 +344,7 @@
           "blank_id": "a1"
         },
         {
-          "id": 5912,
+          "id": 4555,
           "text": "subclass inherited",
           "comments": "",
           "comments_html": "<p>There aren't any classes, nor any subclass inheritance, in the syntax above.\nYou might want to review the resource/s for this question.</p>",
@@ -344,7 +352,7 @@
           "blank_id": "a1"
         },
         {
-          "id": 2444,
+          "id": 3933,
           "text": "I don't know",
           "comments": "",
           "comments_html": "<p>Be sure to study the source/s for this question. You'll get it next time.</p>",
@@ -352,7 +360,7 @@
           "blank_id": "a1"
         },
         {
-          "id": 4870,
+          "id": 5599,
           "text": "Talk::Teachers",
           "comments": "",
           "comments_html": "<p>Correct! To <code>include</code> the <code>Teachers</code> module, we need to access it using <code>::</code>\non the module that contains it.</p>",
@@ -360,7 +368,7 @@
           "blank_id": "a2"
         },
         {
-          "id": 154,
+          "id": 5392,
           "text": "Teachers::Talk",
           "comments": "",
           "comments_html": "<p>When using <code>::</code> to access a nested module, we put the module that contains the\nother module on the left side of the double colon.</p>",
@@ -368,7 +376,7 @@
           "blank_id": "a2"
         },
         {
-          "id": 3942,
+          "id": 8877,
           "text": "Talk.Teachers",
           "comments": "",
           "comments_html": "<p>Not quite. This looks more like we're trying to call a method on <code>Talk</code>.</p>",
@@ -401,7 +409,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/pages/super\">Super</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 6029,
+          "id": 2069,
           "text": "",
           "html": "<p>Use <code>super</code> in <code>MondayRoutine#morning</code> method.</p>",
           "comments": "",
@@ -409,7 +417,7 @@
           "weight": 100.0
         },
         {
-          "id": 2541,
+          "id": 7918,
           "text": "",
           "html": "<p>Use <code>extend</code> in the <code>MondayRoutine</code> class.</p>",
           "comments": "",
@@ -417,7 +425,7 @@
           "weight": 0.0
         },
         {
-          "id": 8661,
+          "id": 1106,
           "text": "",
           "html": "<p>Use <code>include</code> in the <code>MondayRoutine</code> class.</p>",
           "comments": "",
@@ -425,7 +433,7 @@
           "weight": 0.0
         },
         {
-          "id": 4889,
+          "id": 6914,
           "text": "",
           "html": "<p>I don't know.</p>",
           "comments": "",
@@ -458,7 +466,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/3299/pages/super?module_item_id=143842\">Super</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 7900,
+          "id": 482,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Table</span> <span class=\"o\">&lt;</span> <span class=\"no\">Furniture</span>\n  <span class=\"k\">def</span> <span class=\"nf\">build</span>\n    <span class=\"nb\">puts</span> <span class=\"s2\">\"You have chosen a table\"</span>\n    <span class=\"k\">super</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -466,7 +474,7 @@
           "weight": 100.0
         },
         {
-          "id": 993,
+          "id": 930,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Table</span> <span class=\"o\">&lt;</span> <span class=\"no\">Furniture</span>\n  <span class=\"k\">def</span> <span class=\"nf\">build</span>\n    <span class=\"k\">super</span>\n    <span class=\"nb\">puts</span> <span class=\"s2\">\"You have chosen a table\"</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -474,7 +482,7 @@
           "weight": 0.0
         },
         {
-          "id": 8169,
+          "id": 3188,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Table</span>\n  <span class=\"k\">def</span> <span class=\"nf\">build</span>\n    <span class=\"nb\">puts</span> <span class=\"s2\">\"You have chosen a table\"</span>\n    <span class=\"nb\">puts</span> <span class=\"s2\">\"Your furniture is being built\"</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -482,7 +490,7 @@
           "weight": 0.0
         },
         {
-          "id": 332,
+          "id": 1563,
           "text": "",
           "html": "<div class=\"highlight\"><pre class=\"highlight ruby\"><code><span class=\"k\">class</span> <span class=\"nc\">Table</span> <span class=\"o\">&lt;</span> <span class=\"no\">Furniture</span>\n  <span class=\"k\">def</span> <span class=\"nf\">build</span>\n    <span class=\"nb\">puts</span> <span class=\"s2\">\"You have chosen a table\"</span>\n    <span class=\"nb\">puts</span> <span class=\"s2\">\"Your furniture is being built\"</span>\n  <span class=\"k\">end</span>\n<span class=\"k\">end</span>\n</code></pre></div>",
           "comments": "",
@@ -490,7 +498,7 @@
           "weight": 0.0
         },
         {
-          "id": 7911,
+          "id": 3994,
           "text": "",
           "html": "<p>I don't know.</p>",
           "comments": "",
