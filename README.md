@@ -1,6 +1,6 @@
 ---
-id: 19086
-course_id: 3299
+id: 53504
+course_id: 7559
 repo: phase-3-quiz-object-inheritance
 ---
 
